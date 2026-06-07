@@ -1,7 +1,3 @@
-## https://akhack7.github.io/ISHA_V3/
-
-
-
 # 🤖 ISHA — Intelligent System for Human Assistance
 
 <p align="center">
@@ -319,6 +315,8 @@ Built with ❤️ using Python, PyQt5, Ollama, and Edge-TTS.
 ---
 
 ## https://akhack7.github.io/ISHA_V3/
+
+___
 
 
 <p align="center">
