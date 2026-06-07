@@ -8,3 +8,11 @@
 ```
 ollama run
 ```
+
+```
+server x
+```
+
+``` 
+pip install python 
+```
