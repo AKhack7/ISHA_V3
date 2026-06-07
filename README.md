@@ -314,7 +314,7 @@ Built with ❤️ using Python, PyQt5, Ollama, and Edge-TTS.
 
 ---
 
-## https://akhack7.github.io/ISHA_V3/
+## https://akhack7.github.io/ISHA_V3/i.com
 
 ___
 
