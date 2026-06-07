@@ -121,7 +121,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/isha-assistant.git
+git clone https://github.com/Akhack7/isha-assistant.git
 cd isha-assistant
 
 # Run directly — ISHA self-installs all dependencies automatically
@@ -317,6 +317,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Built with ❤️ using Python, PyQt5, Ollama, and Edge-TTS.
 
 ---
+
+## https://akhack7.github.io/ISHA_V3/
+
 
 <p align="center">
   <i>"Your local AI companion — no cloud required."</i>
